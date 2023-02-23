@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\bin\Debug\net6.0\Test27.exe
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\bin\Debug\net6.0\Test27.deps.json
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\bin\Debug\net6.0\Test27.runtimeconfig.json
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\bin\Debug\net6.0\Test27.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\bin\Debug\net6.0\Test27.pdb
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\Test27.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\Test27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\Test27.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\Test27.AssemblyInfo.cs
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\Test27.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\Test27.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\refint\Test27.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\Test27.pdb
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\Test27.genruntimeconfig.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 4\DZ_Seminar4_C\Test27\obj\Debug\net6.0\ref\Test27.dll
